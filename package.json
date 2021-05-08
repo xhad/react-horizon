@@ -40,7 +40,7 @@
     "redux-immutable-state-invariant": "^1.2.3",
     "redux-observable": "^0.7.0",
     "redux-persist": "^3.2.2",
-    "redux-persist-transform-encrypt": "^0.1.0",
+    "redux-persist-transform-encrypt": "^3.0.0",
     "rethinkdbdash": "^2.3.23",
     "winston": "^2.2.0"
   },
