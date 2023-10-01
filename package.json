@@ -28,7 +28,7 @@
     "localforage": "^1.4.2",
     "lodash": "^4.13.1",
     "node-sass": "^3.7.0",
-    "postcss-nested": "^1.0.0",
+    "postcss-nested": "^5.0.0",
     "react": "^15.2.0",
     "react-addons-css-transition-group": "^15.2.0",
     "react-dom": "^15.2.0",
